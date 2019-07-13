@@ -1,10 +1,10 @@
 #como instalar vpn
 primero agregar el comando
 
-wget https://raw.githubusercontent.com/audiopsicotiko/OpenVPN-install/master/openvpn-install.sh
+wget https://raw.githubusercontent.com/audiopsicotiko/vpn/master/vpn.sh
 
-chmod +x openvpn-install.sh
+chmod +x vpn.sh
 
-./openvpn-install.sh
+./vpn.sh
 
 reiniciar con sudo shutdown -r now
